@@ -16,20 +16,6 @@ Objective C
 Swift
 `import Lottie`
 
-### Carthage
-Get [Carthage](https://github.com/Carthage/Carthage)
-
-Add Lottie to your Cartfile
-```
-github "airbnb/lottie-ios" "master"
-```
-run
-```
-carthage update
-```
-
-In your application targets “General” tab under the “Linked Frameworks and Libraries” section, drag and drop lottie-ios.framework from the Carthage/Build/iOS directory that `carthage update` produced.
-
 ## iOS Sample App
 
 Clone this repo and try out [the Sample App](https://github.com/airbnb/lottie-ios/tree/master/Example)
