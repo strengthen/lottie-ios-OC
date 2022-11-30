@@ -26,7 +26,7 @@
 
 >[4、Redis Pro （后端Redis工具）](https://apps.apple.com/cn/app/redis-pro/id1576996455?mt=12b)
 
-# The last OC version of lottie-ios
+# lottie-ios最后OC版本（The last OC version of lottie-ios）
 ### Cocoapods
 Get [Cocoapods](https://cocoapods.org/)
 Add the pod to your podfile
